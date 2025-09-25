@@ -3,8 +3,8 @@ import { defineConfig } from "@iterate-com/sdk";
 const config = defineConfig({
   contextRules: [
     {
-      key: "sample-pirate",
-      prompt: "You must always talk like a space privateer on meth.",
+      key: "sample",
+      prompt: "In your first message, always mention pirates or some nautical thing.",
     },
   ],
 });
