@@ -6,6 +6,6 @@
     "typecheck": "tsc"
   },
   "devDependencies": {
-    "@iterate-com/sdk": "https://pkg.pr.new/iterate/iterate/@iterate-com/sdk@911068645dee088211fda5a6805e4c85a78b74ff"
+    "@iterate-com/sdk": "https://pkg.pr.new/iterate/iterate/@iterate-com/sdk@74750391a91cb4a27ece6d69752b6cadf7f73ce2"
   }
 }
